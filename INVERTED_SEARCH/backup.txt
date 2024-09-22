@@ -1,0 +1,8 @@
+#;0;are;1;ex.txt;2;#
+#;7;hi;3;f1.txt;2;file2.txt;1;ex.txt;2;#
+#;7;hello;3;f1.txt;1;file2.txt;1;ex.txt;1;#
+#;7;how;1;ex.txt;1;#
+#;7;here;1;ex.txt;1;#
+#;18;sridhar;2;file2.txt;1;ex.txt;1;#
+#;24;you;2;f1.txt;1;ex.txt;2;#
+#;27;@#@;1;f1.txt;1;#
